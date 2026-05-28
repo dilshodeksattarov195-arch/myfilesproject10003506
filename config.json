@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycarse",
+        "uuid": 20215596,
+        "checksum": "6ve43y"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
